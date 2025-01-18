@@ -51,3 +51,4 @@ yarn dev # Inicia o servidor de dev
 
 Acesse [localhost:5173](http://localhost:5173/) no seu navegador e voce irá ver a lista de contatos inicial (vazia)
 
+![Lista em branco](https://raw.githubusercontent.com/LucasPeva/Lista-de-contatos/refs/heads/master/github/embranco.png "Lista vazia")
