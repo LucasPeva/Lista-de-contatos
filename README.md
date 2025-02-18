@@ -27,14 +27,16 @@ Aplicação em web para gerir contatos, com persistência de dados através de u
 
 ```shell
 cd backend
-python main.py
+pip install -r requirements.txt # Instala as dependencias
+python main.py # Inicia o servidor de dev
 ```
 
 #### Linux/MacOS
 
 ```shell
 cd backend
-python3 main.py
+pip3 install -r requirements.txt # Instala as dependencias
+python3 main.py # Inicia o servidor de dev
 ```
 
 ### Depois, inicie o frontend:
